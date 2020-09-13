@@ -14,3 +14,5 @@ pip install -r forca/requerimentos.txt
 ```
 python forca/main.py
 ```
+# palavras
+Para adicionar mais palavras acrescente uma por linha no arquivo palavras.txt
