@@ -8,7 +8,7 @@ git clone git@github.com:alyssonbruno/forca.git
 ```
 ### Instale as dependências
 ```
-pip install -r forca/requeriments.txt
+pip install -r forca/requerimentos.txt
 ```
 ### Execute o projeto
 ```
